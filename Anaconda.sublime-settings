@@ -4,5 +4,8 @@
     "complete_parameters": true,
     "anaconda_gutter_marks": true,
     "anaconda_gutter_theme": "alpha",
-    "anaconda_linter_mark_style": "none"
+    "anaconda_linter_mark_style": "none",
+    "pep8_ignore": [
+        "E501"
+    ]
 }
