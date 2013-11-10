@@ -1,3 +1,4 @@
 {
+    "save_on_focus_lost": true,
     "auto_complete_triggers": [{"selector": "source.python - string - comment - constant.numeric", "characters": "."}]
 }
